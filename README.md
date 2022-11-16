@@ -107,13 +107,14 @@ I have big expertise Manage Teams, building WebCrawlers and Spiders, REST APIs, 
  - ![JQuery](https://img.shields.io/badge/-JQuery-blue)
  - ![GraphQL](https://img.shields.io/badge/-gRPC-red)
  - ![Apollo](https://img.shields.io/badge/-Apollo-khaki)
- - 
+ - ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-red)
+ - ![Laravel](https://img.shields.io/badge/-Laravel-yellow)
 
 ### Others
 
  - ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) 
  - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
- - ![Jquery](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
+ - ![Jquery](https://img.shields.io/static/v1?label=&message=Jquery&color=blue)
 
 ## :open_book: I'm learning
  - ![Terraform](https://img.shields.io/badge/-Terraform-green)
