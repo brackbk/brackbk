@@ -123,5 +123,5 @@ I have big expertise Manage Teams, building WebCrawlers and Spiders, REST APIs, 
 
 Made with ❤️ by Gustavo Junior 👋🏽 Hit me up!
 
- [![Linkedin Badge](https://img.shields.io/badge/-Everton_Tomalok-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-junior/)](https://www.linkedin.com/in/gustavo-junior/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Gustavo_Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-junior/)](https://www.linkedin.com/in/gustavo-junior/) 
 [![Gmail Badge](https://img.shields.io/badge/-gustavorgjunior@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavorgjunior@gmail.com)](mailto:gustavorgjunior@gmail.com)
