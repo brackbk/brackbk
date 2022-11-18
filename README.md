@@ -83,7 +83,7 @@ I have big expertise Manage Teams, building WebCrawlers and Spiders, REST APIs, 
  - ![Azure](https://img.shields.io/static/v1?label=&message=Azure&color=blue)
  - ![Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=royalblue)
  - ![Linode](https://img.shields.io/static/v1?label=&message=Linode&color=green)
- - ![DigitalOcean](https://img.shields.io/static/v1?label=&message=Linode&color=green)
+ - ![DigitalOcean](https://img.shields.io/static/v1?label=&message=DigitalOcean&color=green)
 
 ### Frameworks
  - ![FastAPI](https://img.shields.io/badge/-FastAPI-blue)
