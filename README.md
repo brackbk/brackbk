@@ -1,8 +1,8 @@
 # Hi there 👋
 ### My name is Gustavo Junior, and it's a pleasure to meet you :grinning:.
 
-- 👨‍💻 CTO and Sênior Software Engineer @ <a href="https://genz.com.py/">GENZ</a>
-- 👨🏻‍🎓 System Information from <a href="https://www.udc.edu.br/site/#/udc">UDC</a>
+- 👨‍💻 Sênior Software Engineer @ <a href="https://www.galleysolutions.com">Galley</a>
+- 👨🏻‍🎓 Bachelor degree in System Information from <a href="https://www.udc.edu.br/site/#/udc">UDC</a>
 - I love to spend time with my family :family: and friends 
 - Addicted in learning new tecnologies :computer_mouse:
 - I really love to create new projects on my plenty of time :minidisc:.
